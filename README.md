@@ -5,6 +5,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+clear+insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau;Looking+for+a+Data%2FBusiness+Analyst+Internship" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=biradarsanjana375-stack&style=for-the-badge&color=2E9EF7" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-2ea043?style=for-the-badge" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biradarsanjana375-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarsanjana375-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarsanjana375-stack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="600"/>
+</p>
+
 ---
 
 ### 🎯 About Me
@@ -18,27 +36,9 @@
 
 ### 🛠️ Skills
 
-**Analytics & Tools**
-
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-
-
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel,mysql,powerbi,tableau,py,git,github" alt="Skill icons"/>
+</p>
 
 **Core Strengths**
 `Data Analysis` `Data Visualization` `Dashboard Development` `Business Intelligence` `Statistics` `Business Process Analysis` `KPI Analysis` `Market Research`
@@ -56,8 +56,9 @@
 - **🧠 Interactive Programming Quiz (Vevox)** *(Nov 2025 – Present)*
   Ran live programming quizzes for classmates as part of a college initiative; designed questions and tracked participation to see what engaged students most.
 
-- **⚡ Electr
-- ---
+- **⚡ Electric Vehicles Presentation using AI Tools** *(Dec 2025 – Present)*
+  Built a presentation on EVs covering environmental and cost benefits, using Gamma AI to speed up design so I could focus on content and delivery.
+  ---
 
 ### 📜 Certifications
 
@@ -76,7 +77,7 @@
   </a>
   <a href="mailto:biradarsanjana375@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>b 
+  </a>
 </p>
 
 <p align="center"><i>⭐️ Always learning, always analyzing.</i></p>
